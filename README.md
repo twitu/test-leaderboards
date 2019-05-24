@@ -6,3 +6,4 @@ Make Pull Requests and merge them to generate `push events`
 
 ## Test push
 1
+2
